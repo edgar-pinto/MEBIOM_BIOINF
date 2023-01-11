@@ -1,6 +1,6 @@
 # MEBIOM_BIOINF
 
-# Trabalho Prático de Bioinformática - Grupo 20 - Opção B2
+# Trabalho Prático de Bioinformática - Grupo 20 - Opção B1
 Dataset: Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
 
 Link: https://www.cbioportal.org/study?id=coadread_tcga_pan_can_atlas_2018  
