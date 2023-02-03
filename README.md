@@ -5,7 +5,8 @@ Dataset: Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
 
 Link: https://www.cbioportal.org/study?id=coadread_tcga_pan_can_atlas_2018  
 
-O ficheiro dataset1 trata-se do notebook finalizado até às 00:00h de 3/02/2023
+O ficheiro dataset1 trata-se do notebook finalizado até às 00:00h de 3/02/2023.
+
 Já o ficheiro dataset1_corrigido trata-se de uma versão corrigida do ficheiro dataset1.
 
 Paper: 
